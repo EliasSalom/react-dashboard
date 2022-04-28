@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    margin: 2% 3%;
+}
+.right-side{
+    margin-left: auto;
+    color: #24292E66;
+    justify-content: space-between;
+}
+.icon{
+    max-width: 16px;
+    max-height: 16px;
+}
+.marg{
+    margin: 0% 3%;
+}

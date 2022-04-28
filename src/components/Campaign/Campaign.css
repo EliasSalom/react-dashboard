@@ -1,0 +1,17 @@
+.status-element {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.status-element li{
+  display:inline-flex;
+  justify-content: space-between;
+  /* margin: 4% 1%; */
+  width: 99%;
+  padding: 5% 1%;
+}
+.status-element li:hover {
+  background-color: #f2f5fa;
+}
+

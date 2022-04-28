@@ -1,0 +1,52 @@
+.vertical-Navbar {
+  width: 5%;
+  height: 100vh;
+  
+  background-color: #ffffff;
+  border-right: 1px solid #ced6e0;
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+  /* style for the icon */
+  text-align: center;
+  font-size: 27px;
+}
+.vertical-Navbar ul {
+  list-style: none;
+  padding: 0%;
+  text-align: center;
+
+}
+.side-icon {
+    max-height: 50%;
+    max-width: 50%;
+}
+.grey-color{
+  color: #24292E66;
+  /* justify-content: space-between; */
+  margin-top: 20%;
+}
+.first-element{
+  margin-top: 30%;
+}
+
+.center-elemnt{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10%;
+  position: absolute;
+  justify-content: space-between;
+  height: 30%;
+}
+.center-elemnt i{
+
+}
+.last-elemnt{
+  display: flex;
+  flex-direction: column;
+}

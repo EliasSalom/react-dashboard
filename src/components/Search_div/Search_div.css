@@ -1,0 +1,22 @@
+.search-div {
+  display: flex;
+  border: solid #ced6e0 1px;
+  border-radius: 5px;
+  /* justify-content: center; */
+  align-items: center;
+  padding: 1px 13px;
+  width: 16%;
+  background-color: white;
+}
+.search-input {
+  background-color: none;
+  border-color: none;
+  border: none;
+  outline: none;
+  width: 90%;
+  height: 100%;
+}
+.icon{
+    max-width: 16px;
+    max-height: 16px;
+}

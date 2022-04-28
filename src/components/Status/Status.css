@@ -1,0 +1,40 @@
+.done{
+    background-color: #FFF5DC;
+    color: #FFC22D;
+    padding: 1px 3% 1px 3%;
+    border-radius: 40px;
+    width: 22%;
+    display: flex;
+    justify-content: space-between;
+}
+.pause{
+    background-color: #FFDCDC;
+    color: #F14D4D;
+    padding: 1px 3% 1px 3%;
+    border-radius: 40px;
+    width: 22%;
+    display: flex;
+    justify-content: space-between;
+}
+.live{
+    background-color: #CAFFDC;
+    color: #22B254;
+    padding: 1px 3% 1px 3%;
+    border-radius: 40px;
+    width: 22%;
+    display: flex;
+    justify-content: space-between;
+    /* padding-left: 3%; */
+}
+.draft{
+    background-color: #F2F5FA;
+    color: #24292E99;
+    padding: 1px 3% 1px 3%;
+    border-radius: 40px;
+    width: 22%;
+    display: flex;
+    justify-content: space-between;
+}
+.status-icon{
+    margin-right: auto;
+}

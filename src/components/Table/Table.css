@@ -1,0 +1,67 @@
+.table-section{
+    background-color: white;
+    margin: 3% 3% 0% 3%;
+    border-radius: 5px;
+}
+.title-section{
+    border-bottom: 1px solid #CED6E0;
+    padding: 1%;
+}
+.ul-table{
+    list-style: none;
+    display: flex;
+}
+.ul-table li{
+    margin-right: 2%;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.table-title{
+    border-top: 1px solid #CED6E0;
+    border-bottom: 1px solid #CED6E0;
+}
+.icon{
+    max-width: 16px;
+    max-height: 16px;
+}
+.table-flex{
+    display: flex;
+}
+/* .status-element{
+    list-style: none;
+}
+.status-element li{
+    display: inline-flex;
+    margin: 4% 1%;
+    width: 99%;
+    height: 20%;
+} */
+.status-element li:hover{
+background-color: #F2F5FA;
+}
+.status-section{
+    width: 25%;
+    border-right: 1px solid #CED6E0;
+}
+.personal-img{
+    max-width: 20%;
+    max-height: 20%;
+    border-radius: 50px;
+}
+.img-td{
+    width: 20%;
+}
+.search-table{
+    margin: 2% 0% 2% 4%;
+}
+.sort{
+    max-width: 50%;
+}
+.campaign-icon{
+    float: right;
+    margin-left: auto;
+}
+
